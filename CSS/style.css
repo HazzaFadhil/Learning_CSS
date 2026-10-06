@@ -1,0 +1,17 @@
+/* ini CLASS */
+.Isi {
+    color: rgb(136, 187, 33); 
+}
+
+/* ini ID */
+ #judul {
+    color: red;
+    size: 10px;
+ }
+
+.red {
+    color: red;
+}
+.upper {
+    text-transform: uppercase;
+}
